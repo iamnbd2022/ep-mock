@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "host": "cfv-404.com",
+  "title": "",
+  "mainEndpoint": "",
+  "endpoints": [
+    {
+      "endpoint": "http://localhost:9761",
+      "lut": 1732755973605,
+      "isMain": false,
+      "pushable": false
+    },
+    {
+      "endpoint": "http://localhost:9762",
+      "lut": 1732755973605,
+      "isMain": false,
+      "pushable": false
+    }
+  ],
+  "lut": 1732755973605
+}
