@@ -8,13 +8,15 @@
       "endpoint": "http://localhost:9761",
       "lut": 1732755973605,
       "isMain": false,
-      "pushable": false
+      "pushable": false,
+      "nodeUuid": "cfv-ian-source"
     },
     {
       "endpoint": "http://localhost:9762",
       "lut": 1732755973605,
       "isMain": false,
-      "pushable": false
+      "pushable": false,
+      "nodeUuid": "cfv-ian-target"
     }
   ],
   "lut": 1732755973605
